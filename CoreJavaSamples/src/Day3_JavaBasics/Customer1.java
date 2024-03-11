@@ -1,4 +1,5 @@
 package Day3_JavaBasics;
+
 public class Customer1 {
     private int cid;
     private String cname;
@@ -45,3 +46,4 @@ public class Customer1 {
     }
    
 }
+
