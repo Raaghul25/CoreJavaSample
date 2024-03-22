@@ -1,0 +1,5 @@
+VECTOR 
+	Vector implements the dynamic array.
+	It is similar to ArrayList, but with two diffierences-
+			Vector is synchronized
+			Vector consist many legasy
